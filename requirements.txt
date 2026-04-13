@@ -1,0 +1,13 @@
+streamlit
+pandas
+numpy
+scikit-learn
+xgboost
+tensorflow
+keras
+tqdm
+pickle-mixin
+pillow
+requests
+gdown
+pyarrow
