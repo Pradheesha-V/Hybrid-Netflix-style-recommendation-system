@@ -38,6 +38,8 @@ link.csv - It is used to download the movie posters and ratings that match the t
 •	Efficient data handling using Parquet format
 ```
 
+Please download "processed_df.parquet" from here <a>https://drive.google.com/file/d/1bZNUtn5RN9b4jkpYDwG3uIuHXRYk0bYG/view?usp=sharing<a>, and "models" folder from here: <a>https://drive.google.com/drive/folders/1kee3-iM8Wa28ba6ebbZ1Tv2npiJlqJUL?usp=sharing<a> and add in your project folder in the same structure as shown below:
+
 🏗️ Project Structure
 ```
 ├── app.py                     # Streamlit application
